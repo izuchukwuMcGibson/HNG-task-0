@@ -19,9 +19,9 @@ The API returns your profile information and a dynamic **cat fact** fetched from
 
 ## Technologies Used
 
-- **Node.js** â€“ JavaScript runtime  
-- **Express.js** â€“ Web framework  
-- **Axios** â€“ For HTTP requests  
+- **Node.js**  JavaScript runtime  
+- **Express.js**  Web framework  
+- **Axios**  For HTTP requests  
 
 ---
 
@@ -33,7 +33,7 @@ git clone https://github.com/izuchukwuMcGibson/HNG-task-0.git
 cd HNG-task-0
 ```
 
-### 2ï¸âƒ£ Install dependencies
+### 2 Install dependencies
 ```bash
 npm install
 ```
@@ -95,9 +95,7 @@ npm install
 
 ---
 
-##  License
 
-This project is open-source and available under the **MIT License**.
 
 ---
 
